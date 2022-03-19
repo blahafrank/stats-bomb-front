@@ -1,8 +1,8 @@
 {
-  "name": "next-redux-ts-boilerplate",
+  "name": "stats-bomb-front",
   "version": "0.1.0",
-  "description": "Boilerplate for starting new Next.js project with Redux in TypeScript",
-  "repository": "git@github.com:blahafrank/next-redux-ts-boilerplate.git",
+  "description": "Front for stats-bomb assigment",
+  "repository": "git@github.com:blahafrank/stats-bomb-front.git",
   "author": "Frantisek Blaha <blahafrank24@gmail.com>",
   "license": "MIT",
   "scripts": {
