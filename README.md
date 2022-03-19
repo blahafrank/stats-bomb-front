@@ -1,4 +1,4 @@
-# Boilerplate for [`Next.js`](https://github.com/vercel/next.js) project with [`Redux`](https://github.com/reduxjs/redux) in [`Typescript`](https://github.com/microsoft/TypeScript)
+# Front for stats-bomb assigment
 
 ## SCRIPTS
 
