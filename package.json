@@ -1,0 +1,38 @@
+{
+  "name": "next-redux-ts-boilerplate",
+  "version": "0.1.0",
+  "description": "Boilerplate for starting new Next.js project with Redux in TypeScript",
+  "repository": "git@github.com:blahafrank/next-redux-ts-boilerplate.git",
+  "author": "Frantisek Blaha <blahafrank24@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build",
+    "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
+    "create-component": "sh ./scripts/create_component/create_component_folder.sh"
+  },
+  "dependencies": {
+    "next": "^12.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "next-redux-wrapper": "^6.0.2",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.3.0",
+    "sass": "^1.32.8"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.32",
+    "@types/react": "^17.0.40",
+    "typescript": "^4.2.3",
+    "eslint": "^7.32.0",
+    "prettier": "^2.3.2",
+    "@typescript-eslint/eslint-plugin": "^4.30.0",
+    "@typescript-eslint/parser": "^4.30.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.25.1"
+  }
+}
